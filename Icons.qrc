@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../pics/Add.png</file>
+        <file>../../pics/Bus.png</file>
+        <file>../../pics/BusNumber.png</file>
+        <file>../../pics/Buy.png</file>
+        <file>../../pics/Delete.png</file>
+        <file>../../pics/OpenFile.png</file>
+        <file>../../pics/Return.png</file>
+        <file>../../pics/Save.png</file>
+        <file>../../pics/Search.png</file>
+        <file>../../pics/SeatsNumber.png</file>
+        <file>../../pics/Refresh.png</file>
+    </qresource>
+</RCC>
